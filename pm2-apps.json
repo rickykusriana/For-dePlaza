@@ -1,0 +1,10 @@
+{
+	"apps": [
+
+		{
+			"name": "deplaza",
+			"script": "/var/www/For-dePlaza/deplaza.js",
+		}
+
+	]
+}
